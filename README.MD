@@ -31,3 +31,5 @@ Console: wget -O ExFixCollector.py https://lvk.pl/9jQf2Eg
 1. Create a Fernet key by running the `create_fernet_key.py` script.
 2. Edit and customize the `fix_demo_conf.ini` configuration file to match your requirements.
 3. Run the example by executing the `ecollector_test.py` script.
+
+[Shorten link](https://lvk.pl)
